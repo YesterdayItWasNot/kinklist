@@ -785,7 +785,7 @@
 * Suspension Play
 ? Usage of suspension apparatuses and / or rope toys, which typically will suspend one character above the bed or floor; often uncomfortable. 
 
-# Roughness / Pain
+#Roughness / Pain
 (Giving, Receiving)
 * Abuse
 ? Applying abusive actions onto a character, typically through acts of physical violence. Involves subjecting a character(s) to unpleasant situations and behaviors. 
@@ -820,7 +820,7 @@
 * Wax Play
 ? Using wax, typically hot candle wax, as a form of sexual stimulation and / or torture.
 
-# Gore / Torture / Death
+#Gore / Torture / Death
 (Giving, Receiving)
 * Abrasions
 ? Scrapes that are at their mildest in severity capable of causing bleeding; typically administered via rough or coarse objects, such as sandpaper or cement. 
@@ -869,7 +869,7 @@
 * Wound Fucking
 ? Inserting a phallus into a wound, either preexisting or freshly made, in order to engage in intercourse. 
 
-# Inflation, Growth, & Sizeplay
+#Inflation, Growth, & Sizeplay
 (Giving, Receiving)
 * Ass Growth
 ? A situation where at least one character's ass grows in size, typically to fantastical proportions, by any means, including but not limited to magical or chemical. 
@@ -989,7 +989,7 @@
 * Unrealistic Vore
 ? Vore in which realistic physiology is not taken into account; typically connotates soft vore. 
 
-### Unclean Themes & Play
+#Unclean Themes & Play
 (General)
 * Belching / Burping
 ? A focus on belching/burping or doing so during sex. May be exaggerated (visible expulsions of air) and / or with exaggerated burping noises, but not necessarily. 
@@ -1014,7 +1014,8 @@
 * Vomiting
 ? Vomiting, being vomited upon, consuming vomit or otherwise including vomit in the sexual context of an RP. 
 
-# Watersports & Scat
+#Watersports & Scat
+(General)
 * Bathroom Control
 ? A situation in which a character controls when, how and where another character may use the bathroom in any fashion, typically as a form of control or degradation. 
 * Hyper Scat
@@ -1040,7 +1041,7 @@
 * Wetting
 ? Urinating in one's underwear, pants or clothes, or having another character urinate onto a person who is clothed to any degree.  
 
-# Roleplay Preferences
+#Roleplay Preferences
 (General)
 * Approaching IC
 ? Approaching another roleplayer while “in character.” Generally means carrying out actions, speaking as your character, and other forms of character emoting. This is a means of diving straight into roleplay with little to no out-of-character discussion beforehand.
@@ -1077,7 +1078,7 @@
 * Storytelling (Player)
 ? An interest in playing the protagonist character in a story narrated by their partner, where the partner plays as the entire setting and running most of the characters and the environment for the protagonist character. 
 
-# Themes & Scenarios
+#Themes & Scenarios
 (General)
 * Adultery
 ? The act of voluntary sexual intercourse between a person and another character who is not their established spouse or partner.
