@@ -269,7 +269,7 @@ $(function(){
                 context.fillStyle = '#000000';
                 context.font = "12px Arial";
 
-                var x = drawCall.x + 5 + (drawCall.data.choices.length * 20);
+                var x = drawCall.x + 5 + (drawCall.data.choices.length * 25);
                 var y = drawCall.y - 6;
                 context.fillText(drawCall.data.text, x, y);
 
